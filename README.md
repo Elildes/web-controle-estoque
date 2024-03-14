@@ -4,7 +4,9 @@ Este sistema de controle de estoque permite o cadastro de produtos, atualizaçã
 
 ## DDOM - Diagrama de Classes de Domínio
 
-[Link do DDOM]([xx](https://github.com/Elildes/web-controle-estoque/blob/main/ddom/DDOM%20Controle%20de%20Estoques.jpg)https://github.com/Elildes/web-controle-estoque/blob/main/ddom/DDOM%20Controle%20de%20Estoques.jpg)  
+O Diagrama de Domínio é uma representação visual de classes conceituais (ideias, coisas ou objetos) do mundo real que são significativas no domínio do problema.  
+
+[Link do DDOM](https://github.com/Elildes/web-controle-estoque/blob/main/ddom/DDOM%20Controle%20de%20Estoques.jpg)  
 
 ## Arquiterura Conceitual
 
